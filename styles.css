@@ -74,6 +74,7 @@
 }
 .flex-container2 h1{
     font-size: 7em;
+    min-width: 1em;
     color: darkblue;
     padding: 1em;
 }
