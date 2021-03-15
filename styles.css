@@ -73,9 +73,15 @@
     background-image: url("./background.jpg");
 }
 .flex-container2 h1{
-    font-size: 4em;
+    font-size: 7em;
     color: darkblue;
     padding: 1em;
     background-size: cover;
     background-position: center;
+}
+@media(max-width: 600px){
+    .flex-container2 h1{
+        font-size: 1em;
+        padding: .1em;
+    }
 }
