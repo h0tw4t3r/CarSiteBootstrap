@@ -67,14 +67,13 @@
 .flex-container2{
     height: 100vh;
     min-width: 100vh;
-    /* flex: 1; */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     background-image: url("./background.jpg");
 }
 .flex-container2 h1{
-    font-size: 150px;
+    font-size: 9rem;
     color: darkblue;
     padding: 50px;
 }
