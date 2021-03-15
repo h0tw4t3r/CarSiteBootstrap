@@ -1,5 +1,4 @@
 .flex-container{
-    /* display: flex; */
     background-color: dodgerblue;
 }
 .flex-container>div{
@@ -8,16 +7,13 @@
     font-size: 30px;
 }
 #tab-items{
-    /* display: flex; */
-    /* justify-content: space-around; */
+    justify-content: space-around;
     list-style: none;
     margin: 0;
     padding: 0;
 }
 #tab-items li{
-    /* list-style-type: none;
-    display: inline;
-    text-align: justify; */
+    text-align: justify;
     display: inline-flex;
 }
 #tab-items li a{
