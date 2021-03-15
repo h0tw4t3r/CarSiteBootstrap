@@ -67,9 +67,8 @@
 .flex-container2{
     height: 100vh;
     min-width: 100vh;
-    flex: 1;
-    display: flex;
-    background-size: cover;
+    /* flex: 1; */
+    /* background-size: cover; */
     background-position: center;
     background-repeat: no-repeat;
     background-image: url("./background.jpg");
@@ -77,5 +76,6 @@
 .flex-container2 h1{
     font-size: 700%;
     color: darkblue;
+    color: rgb(0, 139, 42);
     padding: 50px;
 }
