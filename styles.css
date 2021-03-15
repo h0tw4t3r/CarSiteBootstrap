@@ -81,7 +81,7 @@
 }
 @media(max-width: 600px){
     .flex-container2 h1{
-        font-size: 1em;
-        padding: .1em;
+        font-size: 3em;
+        padding: .3em;
     }
 }
